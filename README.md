@@ -5,5 +5,5 @@ This is a payment system page UI
 
 ### Details
 * Tech stack: HTML + CSS
-* Figma file of the task: [Figma](https://www.figma.com/file/vIlaWvGgGETRHgxR96RVck/Jagaad-Module-1-Exam?node-id=0-1&t=r2AXI7nR276p4qjX-0)
+* Figma file of the task: [Figma](https://www.figma.com/file/zWwZjOIjiTSgBn1cIMhuEp/Jagaad-Module-3-Project)
 * Preview [here](https://ugur-arslanalp.github.io/nfters/)
