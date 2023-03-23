@@ -1,4 +1,4 @@
-![ugur-arslanalp github io_nfters_](https://user-images.githubusercontent.com/86876940/227037475-89cb9f0f-57e6-4df7-96f3-48f69f5dfcbc.png)
+![ugur-arslanalp github io_nfters_](https://user-images.githubusercontent.com/103636684/227203318-5250b66b-f59f-4bf0-bfbb-e8cab6440dc6.png)
 
 ## NFTERS Page
 This is a payment system page UI
