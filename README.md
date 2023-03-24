@@ -1,7 +1,7 @@
 ![ugur-arslanalp github io_nfters_](https://user-images.githubusercontent.com/103636684/227203318-5250b66b-f59f-4bf0-bfbb-e8cab6440dc6.png)
 
 ## NFTERS Page
-This is a payment system page UI
+This is the landing page UI for the NFT marketplace. Built with HTML ,CSS and JavaScript
 
 ### Details
 * Tech stack: HTML + CSS
